@@ -6,7 +6,9 @@ Now you no need to recalculate it with taking so much time to decrypt-encrypt yo
 
 This is just a simple apps.
 
-You can download the exe file here: (link coming sun~)
+You can download the exe file here:
+
+[v1.0.0.0 Download](https://github.com/Kekesed/Dealphabet/raw/Releases/Release-v1.0.0.0.zip)
 
 ## How it's Work
 It's just using my designated algorithm that turn your alphabet into a number sequence REAL QUICK!
@@ -15,3 +17,6 @@ It's just using my designated algorithm that turn your alphabet into a number se
 This is just my playground on playing with Assembly languages. As you know, i need  portofolio right? :P
 
 'Kay den, enjoy~
+
+## License
+Actually, i don't really know how to apply the license as i want you to mention my name and link to this project when using it or modify it and etc.
