@@ -6,9 +6,9 @@ Now you no need to recalculate it with taking so much time to decrypt-encrypt yo
 
 This is just a simple apps.
 
-You can download the exe file here:
+## Downloads
 
-[v1.0.0.0 Download](https://github.com/Kekesed/Dealphabet/raw/Releases/Release-v1.0.0.0.zip)
+ - [v1.0.0.0 Unstable](https://github.com/Kekesed/Dealphabet/raw/Releases/Release-v1.0.0.0.zip)
 
 ## How it's Work
 It's just using my designated algorithm that turn your alphabet into a number sequence REAL QUICK!
